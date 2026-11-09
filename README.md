@@ -13,3 +13,6 @@ A command-line game launcher built in Python to practice backend logic, flow con
 * Input validation and data sanitization using `.strip().lower()`.
 * List mapping, tuples usage, and probability mechanics.
 * Main menu loop interruption handled via `break`.
+
+###  Project Purpose
+This repository was developed exclusively for learning and educational purposes. It serves to practice structural programming concepts, logic building, and terminal control syntax in Python.
